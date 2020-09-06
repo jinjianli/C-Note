@@ -1,0 +1,7 @@
+Hash_table
+
+
+
+1. from String to Char *
+string str="adadfafd";
+str.c_str(); //return Char * 
